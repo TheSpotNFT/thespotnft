@@ -1,31 +1,18 @@
-### The Spot on Avalanche
-This is the spot on avalanche. Building dynamic NFT projects and experimenting with web3 tech.
+# The Spot on Avalanche
 
-launched, active and completed projects:
+Welcome to The Spot on Avalanche, where we build dynamic NFT projects and experiment with cutting-edge web3 technology.
 
-Goatd; erc-1155 token trait collecting pfp project
-Tombstoned: erc-721 token dNFT. Engrave your NFTombstone forever. you can also send a NFTomstone to someone as a soul bound token, which can
-never leave their wallet.
-unnamed Branding: erc-721 upgradeable NFT. Brand your unnamedNFT with your favourite avax NFT brand.
-Vibes: an erc-1155 token contract that allows someone to mint gudVibes to someone elses wallet. The user that it was sent to gets 50% of the mint fee as well as the erc-1155 token.
-The Spot Bot: and erc-721 token with dope af bots for the art. The token is a work in progress and will be utilized more in the future.
-iprs.tech: The interplanetary recipe system stores recipe data on ipfs and retrieves it using the avalanche blockchain, allowing users to tokenize recipes. The site is complete with a tipping service so you can tip the user that holds the recipe erc-721 token. Also commenting on recipes and with those comments sending tips. FoodFi is born.
+## Launched, Active, and Completed Projects:
 
-projects in development
-Cowrie.network: Coming soon
+- **Goatd**: An ERC-1155 token trait collecting PFP project.
+- **Tombstoned**: An ERC-721 token dNFT where you can engrave your NFTombstone forever. You can also send an NFTombstone as a soul-bound token, which can never leave the recipient's wallet.
+- **Unnamed Branding**: An ERC-721 upgradeable NFT. Brand your unnamedNFT with your favorite AVAX NFT brand.
+- **Vibes**: An ERC-1155 token contract allowing users to mint gudVibes to someone else's wallet. The recipient gets 50% of the mint fee and the ERC-1155 token.
+- **The Spot Bot**: An ERC-721 token featuring dope bots for art. This token is a work in progress and will be utilized more in the future.
+- **iprs.tech**: The Interplanetary Recipe System stores recipe data on IPFS and retrieves it using the Avalanche blockchain, allowing users to tokenize recipes. The site includes a tipping service to tip the holder of the recipe ERC-721 token, and also features commenting on recipes with the option to send tips. FoodFi is born.
 
+## Projects in Development:
 
-<!--
-**TheSpotNFT/thespotnft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Cowrie.network**: Coming soon.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+End
